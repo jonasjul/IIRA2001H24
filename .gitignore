@@ -1,0 +1,5 @@
+#Ignorer alt
+*
+
+#Bortsett fra:
+!Intro-JH.ipynb
