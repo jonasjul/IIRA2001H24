@@ -1,7 +1,9 @@
 #Ignorer alt
 *
+/*
 
 #Bortsett fra:
-!Intro-JH.ipynb
+!1-Intro/Intro-JH.ipynb
 !.gitignore
-!Oppdater.ipynb
+!1-Intro/Oppdater.ipynb
+!1-Intro/
