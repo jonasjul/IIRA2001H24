@@ -1,11 +1,2 @@
-#Ignorer alt
-*
-/*
-
-#Bortsett fra:
-!1-Intro/Intro-JH.ipynb
-!.gitignore
-!1-Intro/Oppdater.ipynb
-!1-Intro/
-!*/*.pdf
-!*/*.ipynb
+*/*.tex
+.ipynb_checkpoints
